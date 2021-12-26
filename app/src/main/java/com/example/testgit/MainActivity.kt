@@ -8,9 +8,9 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        //try ветка
-        fun one(){
-            var on = "Try"
+        //6 ветка
+        fun one6(){
+            var on = 6
         }
     }
 }
