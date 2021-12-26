@@ -8,14 +8,14 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        //6 ветка
-        fun seven(){
-            var on = 6
+        //7 ветка
+        fun sevenZero(){
+            var on = 7
         }
-        fun seven1(){
+        fun sevenOne(){
 
         }
-        fun seven2(){
+        fun sevenTwo(){
 
         }
     }
