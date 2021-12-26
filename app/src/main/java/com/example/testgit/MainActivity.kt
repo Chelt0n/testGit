@@ -12,11 +12,6 @@ class MainActivity : AppCompatActivity() {
         fun eithZero(){
             var on = 8
         }
-        fun eithsevenOne(){
 
-        }
-        fun eithsevenTwo(){
-
-        }
     }
 }
