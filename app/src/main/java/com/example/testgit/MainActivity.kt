@@ -9,8 +9,14 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         //6 ветка
-        fun one6(){
+        fun seven(){
             var on = 6
+        }
+        fun seven1(){
+
+        }
+        fun seven2(){
+
         }
     }
 }
