@@ -9,5 +9,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
             //5 ветка
+        fun one(){
+            var on = 5
+        }
     }
 }
